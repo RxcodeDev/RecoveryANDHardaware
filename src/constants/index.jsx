@@ -6,9 +6,9 @@ import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
 
-import user1 from "../assets/profile-pictures/user4.jpg";
-import user2 from "../assets/profile-pictures/user5.jpg";
-import user3 from "../assets/profile-pictures/user6.jpg";
+import user1 from "../assets/profile-pictures/user1.jpg";
+import user2 from "../assets/profile-pictures/user2.jpg";
+import user3 from "../assets/profile-pictures/user3.jpg";
 
 import client1 from "../assets/client1.png";
 import client2 from "../assets/client2.png";
@@ -28,22 +28,17 @@ export const navItems = [
 export const testimonials = [
   {
     user: "Ingeniero de campo",
-    company: "Fernando Alvarado",
+    company: "Ricardo de Jesús Galicia",
     image: user1,
     text: "Como ingeniero de campo, mi misión es asegurar que cada sistema funcione al máximo. Me enfoco en soluciones personalizadas, garantizando un servicio impecable y tecnologías sin fallos.",
   },
   {
     user: "Lider de proyectos IT",
-    company: "Alberto Mendoza",
+    company: "Daniel Galicia",
     image: user2,
     text: "Como líder de proyectos IT, mi misión es coordinar y ejecutar soluciones tecnológicas eficientes. Me enfoco en optimizar procesos, garantizando que cada proyecto se complete con éxito y precisión",
   },
-  {
-    user: "Asesor de IT",
-    company: "Leticia Torres",
-    image: user3,
-    text: "Como asesor de IT, mi misión es ofrecer soluciones estratégicas que impulsen el crecimiento tecnológico. Me enfoco en brindar orientación precisa para optimizar cada sistema y mejorar su rendimiento.",
-  },
+  
 
 ];
 
